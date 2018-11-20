@@ -1,0 +1,42 @@
+﻿@model JoaoCarlosRezendeJunior.MVC.Models.PedidoViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pedido</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeMedicamento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeMedicamento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.QtdeMedicamento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.QtdeMedicamento)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DataEntrega)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DataEntrega)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CodCliente)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CodCliente)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdPedido">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

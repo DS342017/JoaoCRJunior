@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\bin\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.deps.json
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\bin\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.runtimeconfig.json
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\bin\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\bin\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.dll
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.csprojAssemblyReference.cache
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.RazorAssemblyInfo.cache
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.RazorAssemblyInfo.cs
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.RazorTargetAssemblyInfo.cache
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\bin\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.pdb
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.dll
+C:\Users\joaoc\source\repos\JoaoCarlosRezendeJunior\JoaoCarlosRezendeJunior.API\obj\Debug\netcoreapp2.1\JoaoCarlosRezendeJunior.API.pdb
